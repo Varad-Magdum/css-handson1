@@ -1,0 +1,23 @@
+.text1{
+    text-decoration: line-through ;
+    font-weight: bold;
+}
+.text2{
+    background-color: yellow;
+    font-weight: bold;
+}
+.text3{
+    text-decoration: underline;
+}
+.ul{
+    letter-spacing: 5px;
+}
+.text5{
+    background-color: yellow;
+    font-weight: bold;
+}
+.pb{
+    font-style: italic;
+    color: red;
+    background-color: yellow;
+}
